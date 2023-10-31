@@ -1,0 +1,21 @@
+body div {
+    display: flex;
+}
+div div{
+    height: 15px;
+    width: 15px;
+    border: 1px solid;
+    
+}
+.noir{
+    background-color: black;
+}
+.o{
+    background-color: orange;
+}
+.oF{
+    background-color: orangered;
+}
+.vert{
+    background-color: green;
+}
